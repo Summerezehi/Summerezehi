@@ -11,15 +11,6 @@
 ## 🎯 About Me
 
 I'm a **self-taught Full-Stack Developer** specializing in **frontend development**. I've been coding since 2023 and have worked with companies like BestTec and Kaleido Talent.
-```typescript
-const summer = {
-  education: "Digital Technology Level 3 @ Scarborough Tec",
-  grade: "Distinction (both years)",
-  specialization: "Frontend Development",
-  currentlyLearning: ["React", "TypeScript",
-  hobbies: ["Photography", "UI/UX Design", "Building Side Projects"]
-};
-```
 
 - 🎓 **Level 3 Digital Technology** student (Distinction in Year 1 & Year 2)
 - 💼 **Software Engineer Intern** since 2023
