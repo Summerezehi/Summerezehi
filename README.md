@@ -2,7 +2,6 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF6B6B?style=for-the-badge)](https://6547338.wixsite.com/summers-portfolio)
 [![Email](https://img.shields.io/badge/Email-sezehi18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sezehi18@gmail.com)
 
 
