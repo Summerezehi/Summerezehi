@@ -1,25 +1,26 @@
-# Hi there, I'm Summer Ezehi 👋
+# Hi there, I'm Summer Ezehi
 
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-sezehi18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sezehi18@gmail.com)
 
-
 </div>
 
-## 🎯 About Me
+## About Me
 
-I'm a **self-taught Full-Stack Developer** specializing in **frontend development**. I've been coding since 2023 and have worked with companies like BestTec and Kaleido Talent.
+I'm a **self-taught Full-Stack Developer** specializing in **frontend development**, currently seeking a **degree apprenticeship** to combine hands-on experience with formal education. I've been coding since 2023 and have worked with companies like BestTec and Kaleido Talent.
 
-- 🎓 **Level 3 Digital Technology** student (Distinction in Year 1 & Year 2)
-- 💼 **Software Engineer Intern** since 2023
-- 🏆 **Brilliance Awards**: Digital Technology & Maths
-- 🌱 Currently learning **React** and **TypeScript**
-- 📸 Photography enthusiast who brings aesthetic design to web development
+
+- **Level 3 Digital Technology** student (Distinction in Year 1 & Year 2)
+- **Software Engineer Intern** since 2023
+- **Brilliance Awards**: Digital Technology & Maths
+- Currently learning **React** and **TypeScript**
+- Photography enthusiast who brings aesthetic design to web development
+- **Seeking degree apprenticeship opportunities in software development**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development (My Specialty)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,9 +49,9 @@ I'm a **self-taught Full-Stack Developer** specializing in **frontend developmen
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎬 [Sci-fi Scarborough - Company Rebrand & Website](https://github.com/Summerezehi/sci-fi-scarborough)
+### [Sci-fi Scarborough - Company Rebrand & Website](https://github.com/Summerezehi/sci-fi-scarborough)
 **Academic Project | Full-Stack Development**
 
 A complete company rebrand and website redesign for a local sci-fi event in Scarborough.
@@ -67,11 +68,11 @@ A complete company rebrand and website redesign for a local sci-fi event in Scar
 - Balancing aesthetics with functionality
 - Database schema design and optimization
 
-[🔗 View Project](https://6547338.wixsite.com/summers-portfolio/post/assignment-2-submission) | [💻 Code](#)
+[View Project](https://6547338.wixsite.com/summers-portfolio/post/assignment-2-submission) | [Code](#)
 
 ---
 
-### 🍊 [Citrus Charge - E-Commerce Platform](https://github.com/Summerezehi/citrus-charge)
+### [Citrus Charge - E-Commerce Platform](https://github.com/Summerezehi/citrus-charge)
 **Final Major Project (Distinction) | Full-Stack Development**
 
 A fully functional e-commerce system built for my Final Major Project with an "Orange" theme.
@@ -90,18 +91,18 @@ A fully functional e-commerce system built for my Final Major Project with an "O
 - Database relationship design
 - State management in vanilla JavaScript
 
-[🔗 View Project](https://6547338.wixsite.com/summers-portfolio/post/final-major-project) | [💻 Code](#)
+[View Project](https://6547338.wixsite.com/summers-portfolio/post/final-major-project) | [Code](#)
 
 ---
 
-### 📺 [Gossip Girl Website Replica](https://github.com/Summerezehi/gossip-girl-site)
+### [Gossip Girl Website Replica](https://github.com/Summerezehi/gossip-girl-site)
 **Personal Project | Frontend Development**
 
 A pixel-perfect recreation of the iconic website from the TV series "Gossip Girl" as a media platform.
 
 **Tech Stack:** HTML, CSS, JavaScript, PHP  
 **Key Features:**
-- UI recreation with attention to detail
+- Faithful UI recreation with attention to detail
 - Dynamic content loading
 - Responsive design across devices
 - Interactive user interface elements
@@ -111,11 +112,11 @@ A pixel-perfect recreation of the iconic website from the TV series "Gossip Girl
 - Advanced CSS layouts and animations
 - Creating immersive user experiences
 
-[💻 View Code](#)
+[View Code](#)
 
 ---
 
-### 💼 [Professional Portfolio Website](https://github.com/Summerezehi/portfolio-website)
+### [Professional Portfolio Website](https://github.com/Summerezehi/portfolio-website)
 **Personal Project | Frontend Development**
 
 My professional portfolio showcasing my work, skills, and academic achievements.
@@ -135,11 +136,11 @@ My professional portfolio showcasing my work, skills, and academic achievements.
 - Circular progress indicators for skills
 - Mobile-optimized navigation
 
-[🔗 Live Site](https://6547338.wixsite.com/summers-portfolio) | [💻 Code](#)
+[Live Site](https://6547338.wixsite.com/summers-portfolio) | [Code](#)
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Software Engineer Intern** | 2023 - Present
 - Develop frontend features and UI components using React and JavaScript
@@ -148,23 +149,35 @@ My professional portfolio showcasing my work, skills, and academic achievements.
 - Translate design requirements into functional web applications
 - Gain practical experience in version control workflows
 
-**Companies:**  Kaleido Talent
+**Companies:** BestTec, Kaleido Talent
 
 ---
 
+## GitHub Statistics
 
+<div align="center">
 
-## 🎯 What I'm Currently Working On
+![Summer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Summerezehi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9)
 
-- 🔨 Building React applications to strengthen component architecture skills
-- 📚 Deepening TypeScript knowledge for type-safe development
-- ☁️ Learning cloud computing (AWS/Azure fundamentals)
-- 🤖 Exploring Python for AI integration
-- 📖 Studying for degree apprenticeship applications
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Summerezehi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Summerezehi&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
+
+</div>
 
 ---
 
-## 💡 What Makes Me Different
+## Currently Working On
+
+- Building React applications to strengthen component architecture skills
+- Deepening TypeScript knowledge for type-safe development
+- Learning cloud computing (AWS/Azure fundamentals)
+- Exploring Python for AI integration
+- Studying for degree apprenticeship applications
+
+---
+
+## What Makes Me Different
 
 - **Self-Taught & Driven**: Independently mastered frontend development beyond curriculum requirements
 - **Design-Conscious Developer**: Photography background informs my UI/UX decisions and visual hierarchy
@@ -175,24 +188,25 @@ My professional portfolio showcasing my work, skills, and academic achievements.
 
 ---
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
-- 🥇 **Brilliance Award** - Digital Technology
-- 🥇 **Brilliance Award** - Mathematics  
-- 🎓 **Distinction** - Digital Technology Level 3 (Year 1 & 2)
-- 🎓 **Distinction** - Final Major Project
-- 💼 **Professional Experience** - Software Engineer Intern since 2023
+- **Brilliance Award** - Digital Technology
+- **Brilliance Award** - Mathematics  
+- **Distinction** - Digital Technology Level 3 (Year 1 & Year 2)
+- **Distinction** - Final Major Project
+- **Professional Experience** - Software Engineer Intern since 2023
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
-If you're looking for a motivated, self-driven developer with a strong foundation in frontend technologies, I'd love to connect!
+I'm actively seeking **degree apprenticeship opportunities** where I can combine practical development work with formal education. If you're looking for a motivated, self-driven developer with a strong foundation in frontend technologies, I'd love to connect.
 
 <div align="center">
 
 [![Email Me](https://img.shields.io/badge/Email-sezehi18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sezehi18@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B6B?style=for-the-badge)](https://6547338.wixsite.com/summers-portfolio)
+[![Blog](https://img.shields.io/badge/Blog-Read%20My%20Posts-4A90E2?style=for-the-badge)](https://6547338.wixsite.com/summers-portfolio/blog)
 
 </div>
 
@@ -200,8 +214,10 @@ If you're looking for a motivated, self-driven developer with a strong foundatio
 
 <div align="center">
   
+### Open to Degree Apprenticeship Opportunities
 
+**Specializing in Frontend Development | React • TypeScript • JavaScript**
 
-⭐ Check out my pinned repositories below to see my best work!
+Check out my pinned repositories below to see my best work.
 
 </div>
