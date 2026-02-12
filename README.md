@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a **self-taught Full-Stack Developer** specializing in **frontend development**, currently seeking a **degree apprenticeship** to combine hands-on experience with formal education. I've been coding since 2023 and have worked with companies like BestTec and Kaleido Talent.
+I'm a **self-taught Full-Stack Developer** specializing in **frontend development**. I've been coding since 2023 and have worked with companies like BestTec and Kaleido Talent.
 
 
 - **Level 3 Digital Technology** student (Distinction in Year 1 & Year 2)
@@ -200,12 +200,11 @@ My professional portfolio showcasing my work, skills, and academic achievements.
 
 ## Get In Touch
 
-I'm actively seeking **degree apprenticeship opportunities** where I can combine practical development work with formal education. If you're looking for a motivated, self-driven developer with a strong foundation in frontend technologies, I'd love to connect.
+ If you're looking for a motivated, self-driven developer with a strong foundation in frontend technologies, I'd love to connect.
 
 <div align="center">
 
 [![Email Me](https://img.shields.io/badge/Email-sezehi18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sezehi18@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B6B?style=for-the-badge)](https://6547338.wixsite.com/summers-portfolio)
 [![Blog](https://img.shields.io/badge/Blog-Read%20My%20Posts-4A90E2?style=for-the-badge)](https://6547338.wixsite.com/summers-portfolio/blog)
 
 </div>
@@ -214,7 +213,6 @@ I'm actively seeking **degree apprenticeship opportunities** where I can combine
 
 <div align="center">
   
-### Open to Degree Apprenticeship Opportunities
 
 **Specializing in Frontend Development | React • TypeScript • JavaScript**
 
