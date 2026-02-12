@@ -153,19 +153,7 @@ My professional portfolio showcasing my work, skills, and academic achievements.
 
 ---
 
-## GitHub Statistics
 
-<div align="center">
-
-![Summer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Summerezehi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Summerezehi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Summerezehi&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
-
-</div>
-
----
 
 ## Currently Working On
 
